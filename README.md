@@ -46,7 +46,7 @@ graph TD
 
 📥 Instalación y Ejecución
 
-- Clona el repositorio: git clone https://github.com/tu-usuario/conversor-moneda.git
+- Clona el repositorio: git clone https://github.com/Ciclido233/ConversorDeMonedas-Java.git
 
 - Importa el proyecto en IntelliJ IDEA
 
