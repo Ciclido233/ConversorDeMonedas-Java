@@ -18,6 +18,7 @@ Conversor de Monedas es un proyecto desarrollado como desafío final para el pro
 
 🚀 Cómo Funciona
 
+```mermaid
 graph TD
     A[Inicio] --> B[Obtener tasas de cambio de API]
     B --> C{Mostrar menú}
@@ -31,6 +32,7 @@ graph TD
     I --> J
     J --> C
     F --> K[Fin]
+```
 
 🔧 Tecnologías Utilizadas
 
